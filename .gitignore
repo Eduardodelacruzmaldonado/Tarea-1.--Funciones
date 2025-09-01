@@ -1,13 +1,6 @@
-# Dependencias (¡Esto es lo más importante!)
 /node_modules
-
-# Archivos de logs
 logs
 *.log
-
-# Archivos de entorno (nunca subir contraseñas)
 .env
-
-# Archivos del sistema operativo
 .DS_Store
 Thumbs.db
